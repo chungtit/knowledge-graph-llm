@@ -15,7 +15,7 @@ This project provides a Python framework for integrating Knowledge Graphs with o
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/kg-llm-integration.git
+git clone https://github.com/chungtit/knowledge-graph-llm.git
 cd kg-llm-integration
 
 # Install dependencies
