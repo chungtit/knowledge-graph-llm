@@ -1,4 +1,4 @@
-# Knowledge Graph Integration with Open Source LLMs
+# Knowledge Graph Integration with Open Source LLMs (Updatings)
 
 This project provides a Python framework for integrating Knowledge Graphs with open-source Large Language Models (LLMs). It combines the structured data capabilities of graph databases with the natural language understanding of LLMs to create a powerful question-answering system.
 
