@@ -4,12 +4,12 @@ This project provides a Python framework for integrating Knowledge Graphs with o
 
 ## Features
 
-- 🔍 Semantic search over knowledge graphs
-- 🤖 Integration with popular open-source LLMs (Mistral, LLaMA, Falcon, etc.)
-- 📊 Neo4j graph database integration
-- 💡 Explainable reasoning process
-- ⚡ Optimized for performance and memory efficiency
-- 🔧 Configurable and extensible architecture
+- Semantic search over knowledge graphs
+- Integration with popular open-source LLMs (Mistral, LLaMA, Falcon, etc.)
+- Neo4j graph database integration
+- Explainable reasoning process
+- Optimized for performance and memory efficiency
+- Configurable and extensible architecture
 
 ## Installation
 
@@ -36,7 +36,7 @@ numpy>=1.24.0
 ## Quick Start
 
 ```python
-from kg_llm import OpenSourceKGLLM
+from knowledge_graph_opensource import OpenSourceKGLLM
 
 # Initialize the system
 kg_llm = OpenSourceKGLLM(
@@ -158,26 +158,6 @@ source venv/bin/activate  # or `venv\Scripts\activate` on Windows
 
 # Install development dependencies
 pip install -r requirements-dev.txt
-
-# Run tests
-pytest tests/
-```
-
-<!-- ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
-
-## Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{kg_llm_integration,
-  author = {Chung Luong},
-  title = {Knowledge Graph Integration with Open Source LLMs},
-  year = {2024},
-  url = {https://github.com/chungtit/knowledge-graph-llm}
-}
 ```
 
 ## Acknowledgments
