@@ -18,7 +18,7 @@ This project provides a Python framework for integrating Knowledge Graphs with o
 git clone https://github.com/chungtit/knowledge-graph-llm.git
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r structured-data/requirements-dev.txt
 ```
 
 ### Requirements
@@ -152,7 +152,7 @@ python -m venv venv
 source venv/bin/activate  # or `venv\Scripts\activate` on Windows
 
 # Install development dependencies
-pip install -r requirements-dev.txt
+pip install -r structured-data/requirements-dev.txt
 ```
 
 ## Acknowledgments
