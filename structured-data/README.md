@@ -144,10 +144,6 @@ kg_llm = OpenSourceKGLLM(
    - Limit subgraph size for faster processing
    - Use appropriate similarity thresholds
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ### Development Setup
 
 ```bash
