@@ -1,4 +1,4 @@
-# Knowledge Graph LLM
+# Knowledge Graph LLM (Updating)
 
 This project aims to integrate knowledge graphs with large language models (LLMs) to enhance their capabilities.
 
