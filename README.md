@@ -11,7 +11,7 @@ This project aims to integrate knowledge graphs with large language models (LLMs
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/knowledge-graph-llm.git
+    git clone https://github.com/chungtit/knowledge-graph-llm.git
     ```
 2. Navigate to the project directory:
     ```sh
