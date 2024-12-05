@@ -197,7 +197,7 @@ class KnowledgeGraphExtractor:
 # Example usage
 def main():
     # Example long text (replace with your actual long text)
-    with open('long_text_file_path.txt', 'r', encoding='utf-8') as file:
+    with open('untructured-data/demo-data/long_text.txt', 'r', encoding='utf-8') as file:
         text = file.read()
     
     # Initialize extractor
