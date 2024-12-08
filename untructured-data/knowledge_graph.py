@@ -51,6 +51,7 @@ class KnowledgeGraphExtractor:
         # Preprocess the text first
         processed_text = self.preprocess_text(text)
         
+        # print(processed_text)
         # Process with spaCy
         doc = self.nlp(processed_text)
         
@@ -62,6 +63,9 @@ class KnowledgeGraphExtractor:
             if ent.text not in entities:
                 entities.append(ent.text)
                 entity_types[ent.text] = ent.label_
+        
+        # print(entities)
+        # print(entity_types)
         
         # Extract potential relationships using dependency parsing
         relationships = defaultdict(list)
@@ -81,11 +85,12 @@ class KnowledgeGraphExtractor:
                     
                     # If a meaningful relationship is found
                     if subject and token.pos_ == 'VERB' and obj:
+                        print("have something")
                         relationships[subject].append({
                             'verb': token.text,
                             'object': obj
                         })
-        
+        print(relationships)
         return entities, entity_types, relationships
 
     def build_knowledge_graph(self, text):
