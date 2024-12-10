@@ -72,4 +72,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # python untructured-data/run_graph_building.py -i ./untructured-data/demo-data/long_text.txt -o ./untructured-data/images/knowledge_graph_spacy.png -m "en_core_web_lg"
+    # python text-data/run_graph_building.py -i ./text-data/demo-data/long_text.txt -o ./text-data/images/knowledge_graph_spacy.png -m "en_core_web_lg"
