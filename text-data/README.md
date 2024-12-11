@@ -5,8 +5,7 @@ This folder contains resources and scripts related to handling unstructured data
 ## Contents
 
 - `demo-data/`: Directory containing raw unstructured demo data files.
-<!-- - `scripts/`: Directory containing scripts for processing and analyzing unstructured data. -->
-- `notebooks/`: Jupyter notebooks for exploratory data analysis and visualization.
+- `notebooks/`: Jupyter notebooks for educational purposes.
 - `README.md`: This file.
 
 ## Getting Started
