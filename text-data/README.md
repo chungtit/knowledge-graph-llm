@@ -25,8 +25,6 @@ This folder contains resources and scripts related to handling unstructured data
 
 The `notebooks/` directory contains Jupyter notebooks designed for educational purposes. These notebooks shows basic techniques and workflows for handling unstructured data and building knowledge graphs.
 
-### Educational Notebooks
-
 1. **Hardcoded Knowledge Graph with NetworkX:**
         - The `notebooks/kg_hardcode.ipynb` notebook provides a step-by-step guide to building a simple knowledge graph from scratch using NetworkX. The edges and nodes of the graph are hardcoded to help users understand the basic concepts and structure of a knowledge graph.
 
