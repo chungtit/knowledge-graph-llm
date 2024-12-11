@@ -21,21 +21,14 @@ This folder contains resources and scripts related to handling unstructured data
     ```sh
     pip install -r requirements.txt
     ```
+## Notebooks
 
-<!-- 3. **Run the scripts:**
-    Navigate to the `scripts/` directory and execute the desired script:
-    ```sh
-    python scripts/your_script.py
-    ``` -->
+The `notebooks/` directory contains Jupyter notebooks designed for educational purposes. These notebooks shows basic techniques and workflows for handling unstructured data and building knowledge graphs.
 
-<!-- ## Contributing
+### Educational Notebooks
 
-We welcome contributions! Please read our [contributing guidelines](../CONTRIBUTING.md) for more details.
+1. **Hardcoded Knowledge Graph with NetworkX:**
+        - The `notebooks/kg_hardcode.ipynb` notebook provides a step-by-step guide to building a simple knowledge graph from scratch using NetworkX. The edges and nodes of the graph are hardcoded to help users understand the basic concepts and structure of a knowledge graph.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please open an issue or contact the project maintainers. -->
+2. **Dynamic Knowledge Graph with SpaCy and NetworkX:**
+        - The `notebooks/dynamic.ipynb` notebook shows how to build a dynamic knowledge graph by extracting information from unstructured text using SpaCy and constructing the graph with NetworkX. It covers the process of entity recognition, relationship extraction, and graph construction.
