@@ -1,0 +1,57 @@
+Subject,Relation,Object
+Geoffrey Hinton,related_to_PERSON_DATE,75
+Geoffrey Hinton,related_to_PERSON_ORG,Google
+Geoffrey Hinton,related_to_PERSON_ORG,the New York Times
+Geoffrey Hinton,related_to_PERSON_ORG,BBC
+Geoffrey Hinton,related_to_PERSON_PERSON,Dr Hinton
+Geoffrey Hinton,related_to_PERSON_ORG,BBC
+Geoffrey Hinton,related_to_PERSON_DATE,75
+75,related_to_DATE_PERSON,Geoffrey Hinton
+75,related_to_DATE_ORG,Google
+75,related_to_DATE_ORG,the New York Times
+75,related_to_DATE_ORG,BBC
+75,related_to_DATE_PERSON,Dr Hinton
+75,related_to_DATE_ORG,BBC
+75,related_to_DATE_DATE,75
+Google,related_to_ORG_PERSON,Geoffrey Hinton
+Google,related_to_ORG_DATE,75
+Google,related_to_ORG_ORG,the New York Times
+Google,related_to_ORG_ORG,BBC
+Google,related_to_ORG_PERSON,Dr Hinton
+Google,related_to_ORG_ORG,BBC
+Google,related_to_ORG_DATE,75
+the New York Times,related_to_ORG_PERSON,Geoffrey Hinton
+the New York Times,related_to_ORG_DATE,75
+the New York Times,related_to_ORG_ORG,Google
+the New York Times,related_to_ORG_ORG,BBC
+the New York Times,related_to_ORG_PERSON,Dr Hinton
+the New York Times,related_to_ORG_ORG,BBC
+the New York Times,related_to_ORG_DATE,75
+BBC,related_to_ORG_PERSON,Geoffrey Hinton
+BBC,related_to_ORG_DATE,75
+BBC,related_to_ORG_ORG,Google
+BBC,related_to_ORG_ORG,the New York Times
+BBC,related_to_ORG_PERSON,Dr Hinton
+BBC,related_to_ORG_ORG,BBC
+BBC,related_to_ORG_DATE,75
+Dr Hinton,related_to_PERSON_PERSON,Geoffrey Hinton
+Dr Hinton,related_to_PERSON_DATE,75
+Dr Hinton,related_to_PERSON_ORG,Google
+Dr Hinton,related_to_PERSON_ORG,the New York Times
+Dr Hinton,related_to_PERSON_ORG,BBC
+Dr Hinton,related_to_PERSON_ORG,BBC
+Dr Hinton,related_to_PERSON_DATE,75
+BBC,related_to_ORG_PERSON,Geoffrey Hinton
+BBC,related_to_ORG_DATE,75
+BBC,related_to_ORG_ORG,Google
+BBC,related_to_ORG_ORG,the New York Times
+BBC,related_to_ORG_ORG,BBC
+BBC,related_to_ORG_PERSON,Dr Hinton
+BBC,related_to_ORG_DATE,75
+75,related_to_DATE_PERSON,Geoffrey Hinton
+75,related_to_DATE_DATE,75
+75,related_to_DATE_ORG,Google
+75,related_to_DATE_ORG,the New York Times
+75,related_to_DATE_ORG,BBC
+75,related_to_DATE_PERSON,Dr Hinton
+75,related_to_DATE_ORG,BBC
